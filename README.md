@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <div align = "center"> 
  Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Malbongs&fontSize=60)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Malbongs&fontSize=60)<br>
+<img width="85%" alt="스크린샷 2022-09-07 18 58 53" src="https://user-images.githubusercontent.com/99636339/189087370-325486fc-e876-4d2a-a7ad-829c0a81c9c9.png">
 
 ## 💻  Web Developer 💻 <br><br>
 
