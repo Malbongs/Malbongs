@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Malbongs&fontSize=60)<br>
 <div align = "center"> 
  Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Malbongs&fontSize=60)<br>
+
 
 ## 💻  Web Developer 💻 <br><br>
 
