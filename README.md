@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Malbongs&fontSize=60)<br>
 <div align = "center"> 
- Hi there 👋
+안녕하세요! 👋
 
 
 ## 💻  Web Developer 💻 <br><br>
-
-
-    hello! I am a development dreamer who wants to work as a web developer. 
-    This is my github main page.
-    Take good care of me!
+ 신입 웹 개발자 최준현 입니다!
 
 ## 💻  Tech Stacks 💻 <br><br>
 Techs i've used least one<br>
