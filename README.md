@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 안녕하세요! 👋
 
 
-## 💻  Web Developer 💻 <br><br>
- 신입 웹 개발자 최준현 입니다!
-
 ## 💻  Tech Stacks 💻 <br><br>
 Techs i've used least one<br>
 <img src ="https://img.shields.io/badge/JS-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
