@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 ## 💻  Tech Stacks 💻 <br><br>
-Techs i've used least one<br>
 <img src ="https://img.shields.io/badge/JS-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
 <img src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
